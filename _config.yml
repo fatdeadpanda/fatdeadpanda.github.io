@@ -93,8 +93,8 @@ friends: [
     }
 ]
 
-# 传送链接
-传送链接: [
+# friendlylink
+friendlylink: [
     {
         title: "BiliBili",
         href: "https://space.bilibili.com/479519130"
