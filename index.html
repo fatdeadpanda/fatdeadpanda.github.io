@@ -4,6 +4,9 @@ description: "寒冷到了极致时,太阳就要光临。"
 ---
 
 {% for post in paginator.posts %}
+
+<embed src="/01.mp3" hidden="false" autostart="true" loop="true">
+
 <div class="post-preview">
 	<a href="{{ post.url | prepend: site.baseurl }}">
 		<h2 class="post-title">
