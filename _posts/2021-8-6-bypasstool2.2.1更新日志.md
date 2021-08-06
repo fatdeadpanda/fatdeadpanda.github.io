@@ -7,7 +7,7 @@ author:     FatdeadPanda
 header-img: img/post-web.jpg
 catalog: true
 tags:
-    - Git
+    - 更新日志
 ---
 
 # bypasstool2.2.1更新日志
