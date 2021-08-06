@@ -23,3 +23,5 @@ bypasstool可以让拥有ID锁的iPhone解锁，但只是一次。重启后将�
 
 没了，就这些。。。。。。。。
 真的！
+下面是图片和下载链接
+[![fn0rV0.md.png](https://z3.ax1x.com/2021/08/06/fn0rV0.md.png)](https://imgtu.com/i/fn0rV0)
