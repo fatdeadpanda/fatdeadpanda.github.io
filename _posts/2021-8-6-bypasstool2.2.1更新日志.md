@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      bypasstool2.2.1更新日志
-subtitle:   记录bypasstool更新日志
+subtitle:   更新日志
 date:       2021-8-6
 author:     FatdeadPanda
 header-img: img/post-web.jpg
@@ -24,4 +24,5 @@ bypasstool可以让拥有ID锁的iPhone解锁，但只是一次。重启后将�
 没了，就这些。。。。。。。。
 真的！
 下面是图片和下载链接
-[![fn0rV0.md.png](https://z3.ax1x.com/2021/08/06/fn0rV0.md.png)](https://imgtu.com/i/fn0rV0)
+![](https://z3.ax1x.com/2021/08/06/fn0rV0.png)
+![](https://z3.ax1x.com/2021/08/06/fnBz6J.png)
