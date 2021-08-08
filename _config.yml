@@ -59,8 +59,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    # 是否开启Gitalk评论
-  clientID: 3ffab1207382eb07bba5                            #生成的clientID
-  clientSecret: 1d885e602cc3b79274918cac2b418d669980f572    #生成的clientSecret
+  clientID: a8dbe960f10cafe36fc6df732c99ff9b1e50a5b0dc308a0b96c5dbb74cbe9374                            #生成的clientID
+  clientSecret: 08b37c023359a7957cdcb5c30f27302503e383acb6c0828f15d6c77a36e46363    #生成的clientSecret
   repo: fatdeadpanda.github.io    #仓库名称
   owner: fatdeadpanda    # github用户名
   admin: fatdeadpanda
