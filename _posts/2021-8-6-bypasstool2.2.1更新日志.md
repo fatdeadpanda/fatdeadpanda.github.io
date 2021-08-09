@@ -4,7 +4,7 @@ title:      bypasstool2.2.1更新日志
 subtitle:   更新日志
 date:       2021-8-6
 author:     FatdeadPanda
-header-img: img/post-web.jpg
+header-img: https://fatdeadpanda.coding.net/p/neoterm-mirror/d/fatdeadpanda.github.io/git/raw/main/img/post-web.jpg
 catalog: true
 tags:
     - 更新日志

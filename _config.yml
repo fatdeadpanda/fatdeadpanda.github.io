@@ -1,7 +1,7 @@
 # Site settings | 网站设置
 title: LastOrder
 SEOTitle: LastOrder的博客 | LastOrder
-header-img: img/home-bg.png
+header-img: https://fatdeadpanda.coding.net/p/neoterm-mirror/d/fatdeadpanda.github.io/git/raw/main/img/home-bg.png
 email: fatdeadpanda@163.com
 qq: 3574066525
 description: "LastOrder的博客"
@@ -14,7 +14,7 @@ github_repo: "https://github.com/fatdeadpanda/fatdeadpanda.github.io.git" #code 
 # Sidebar settings | 侧边栏设置
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "就算这样,也要笑着去努力啊!"
-sidebar-avatar: /img/head.jpg      # 头像
+sidebar-avatar: https://fatdeadpanda.coding.net/p/neoterm-mirror/d/fatdeadpanda.github.io/git/raw/main/img/head.jpg      # 头像
 
 
 
