@@ -1,11 +1,11 @@
 # Site settings | 网站设置
 title: LastOrder
-SEOTitle: LastOrder的博客 | LastOrder
+SEOTitle: かまどたんじろう的博客 | かまどたんじろう
 header-img: img/home-bg.png
 email: fatdeadpanda@163.com
 qq: 3574066525
-description: "LastOrder的博客"
-keyword: "LastOrder, LastOrder的博客, last order, lastorder, Python blog"
+description: "かまどたんじろう的博客"
+keyword: "かまどたんじろう, かまどたんじろう的博客, かまどたんじろう, かまどたんじろう, blog"
 url: "https://fatdeadpanda.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/fatdeadpanda/fatdeadpanda.github.io.git" #code repository | 代码仓库
