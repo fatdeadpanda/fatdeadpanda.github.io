@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      bypasstool2.2.2更新日志
+title:      Activation Tool 2.1.1 版本更新
 subtitle:   更新日志
-date:       2021-8-6
+date:       2021-10-4
 author:     FatdeadPanda
-header-img: https://fatdeadpanda.coding.net/p/neoterm-mirror/d/fatdeadpanda.github.io/git/raw/main/img/post-web.jpg
+header-img: img/post-web.jpg
 catalog: true
 tags:
     - 更新日志
