@@ -10,16 +10,19 @@ tags:
     - 更新日志
 ---
 
-# bypasstool2.2.2更新日志
+# Activation Tool 2.1.1更新介绍
 
-## bypasstool介绍
+## Activation Tool 介绍
 
-bypasstool可以让拥有ID锁的iPhone解锁，但只是一次。重启后将要继续越狱跳过激活锁
+Activation Tool可以让拥有ID锁的iPhone解锁，但只是一次。重启后将要继续越狱跳过激活锁
 
-### bypasstool2.2.2更新日志
+### Activation Tool 2.1.1更新日志
 
 新增    联网下载必要文件
+        下载系统更新
+
 减少    文件体积
+
 修复    apk文件无法安装
 
 
