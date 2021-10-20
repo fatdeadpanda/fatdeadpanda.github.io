@@ -31,4 +31,4 @@ Activation Tool可以让拥有ID锁的iPhone解锁，但只是一次。重启后
 [![5JmFO0.jpg](https://z3.ax1x.com/2021/10/16/5JmFO0.jpg)](https://imgtu.com/i/5JmFO0)
 [![5JmEwT.jpg](https://z3.ax1x.com/2021/10/16/5JmEwT.jpg)](https://imgtu.com/i/5JmEwT)
 [![5JmVTU.png](https://z3.ax1x.com/2021/10/16/5JmVTU.png)](https://imgtu.com/i/5JmVTU)
-[ ACTIVATION下载，国内可下载！](https://fatdeadpanda.coding.net/p/neoterm-mirror/d/activetion/git/raw/master/ActivetionTool.exe)
+[ ACTIVATION Tool Download](https://fatdeadpanda.coding.net/p/neoterm-mirror/d/activetion/git/raw/master/ActivetionTool.exe)
